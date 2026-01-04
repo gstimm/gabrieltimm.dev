@@ -41,6 +41,11 @@ const translations = {
     'projects.demo': 'Ver Demo',
     'projects.repo': 'Repositório',
     'projects.viewAll': 'Ver Todos os Projetos',
+    'projects.jairo.description': 'Desenvolvimento de um sistema completo de gestão para escritórios de advocacia associados. A plataforma inclui módulos financeiros avançados, controle de processos, relatórios gerenciais e automações, resultando em uma redução de inadimplência dos clientes. Projeto focado em escalabilidade, segurança de dados e performance.',
+    'projects.assefaz.description': 'Liderança na modernização de plataformas nacionais de gestão de saúde e benefícios. O projeto envolveu a implementação de fluxos seguros de dados, controle de acesso por perfis, automações para processos de reembolso e sinistros, além de melhorias significativas de confiabilidade e desempenho em operações internas.',
+    'projects.multi-pro.description': 'Construção de uma plataforma B2B de atacado voltada para linhas profissionais da Multilaser. O sistema integra-se a ERPs para automatizar pedidos em grande escala, otimizar o processamento de compras, gerenciamento de catálogo e melhorar a eficiência operacional de parceiros comerciais.',
+    'projects.bla-bla-campus.description': 'Desenvolvimento de um aplicativo colaborativo para estudantes da UFPEL com foco em caronas solidárias entre campus. A plataforma permite que alunos ofereçam e encontrem caronas de forma segura e organizada, facilitando a locomoção entre os diferentes campus da universidade, promovendo economia, integração estudantil e mobilidade sustentável.',
+
     
     // Skills
     'skills.title': 'Habilidades Técnicas',
@@ -116,6 +121,10 @@ const translations = {
     'projects.demo': 'View Demo',
     'projects.repo': 'Repository',
     'projects.viewAll': 'View All Projects',
+    'projects.jairo.description': 'Development of a complete management system for associated law firms. The platform includes advanced financial modules, case management, managerial reports, and automations, resulting in reduced client delinquency. The project focuses on scalability, data security, and performance.',
+    'projects.assefaz.description': 'Leadership in the modernization of national health and benefits management platforms. The project involved implementing secure data flows, role-based access control, automations for reimbursement and claims processes, as well as significant improvements in reliability and performance of internal operations.',
+    'projects.multi-pro.description': 'Development of a B2B wholesale platform focused on Multilaser’s professional product lines. The system integrates with ERPs to automate large-scale orders, optimize purchasing workflows, manage catalogs, and improve operational efficiency for business partners.',
+    'projects.bla-bla-campus.description': 'Development of a collaborative application for UFPEL students focused on ride-sharing between campuses. The platform allows students to safely and efficiently offer and find rides, facilitating mobility between different university campuses while promoting cost savings, student integration, and sustainable transportation.',
     
     // Skills
     'skills.title': 'Technical Skills',
